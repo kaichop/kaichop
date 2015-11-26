@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Cigna published insurance policy for exome and genome sequencing"
-description: "A brief introduction to Cigna's coverage policy on clinical genome/exome sequencing."
+title: "Cigna published insurance policy on exome sequencing"
+description: "A brief introduction to Cigna's coverage policy on clinical exome sequencing."
 category: articles
 tags: [genome, exome, insurance, policy]
 image:
@@ -12,7 +12,7 @@ comments: true
 share: true
 ---
 
-Cigna, one of the largest medical insurance companies in the world, published a document on coverage policy for genome and exome sequencing. 
+Cigna, one of the largest medical insurance companies in the world, published a document on coverage policy for clinical genome and exome sequencing. 
 
 The policy can be accessed from [here](https://cignaforhcp.cigna.com/public/content/pdf/coveragePolicies/medical/mm_0519_coveragepositioncriteria_exome_genome_sequence.pdf).
 
