@@ -1,3 +1,6 @@
+This is a modification of the Notepad theme for blogging.
+
+
 Notepad is a Jekyll theme which is very simple, clean and beautiful. This theme is good for any blog.
   
 Main Features:
