@@ -26,20 +26,20 @@ being considered
 2. WES results will directly impact clinical decision-making and clinical outcome for the individual being
 tested 
 3. a genetic etiology is the most likely explanation for the phenotype as demonstrated by EITHER of the following:
-    1. multiple abnormalities affecting unrelated organ systems
-    2. TWO of the following criteria are met:
-        3. abnormality affecting a single organ system
-        4. significant intellectual disability, symptoms of a complex neurodevelopmental disorder (e.g. self-injurious behavior, reverse sleep-wake cycles), or severe neuropsychiatric condition (e.g. schizophrenia, bipolar disorder, Tourette syndrome)
-        5. family history strongly implicating a genetic etiology
-        6. period of unexplained developmental regression (unrelated to autism or epilepsy)
+    * multiple abnormalities affecting unrelated organ systems
+    * TWO of the following criteria are met:
+        1. abnormality affecting a single organ system
+        2. significant intellectual disability, symptoms of a complex neurodevelopmental disorder (e.g. self-injurious behavior, reverse sleep-wake cycles), or severe neuropsychiatric condition (e.g. schizophrenia, bipolar disorder, Tourette syndrome)
+        3. family history strongly implicating a genetic etiology
+        4. period of unexplained developmental regression (unrelated to autism or epilepsy)
 4. no other causative circumstances (e.g. environmental exposures, injury, infection) can explain
 symptoms
 5. clinical presentation does not fit a well-described syndrome for which single-gene or targeted panel
 testing is available
 6. the differential diagnosis list and/or phenotype warrant testing of multiple genes and ONE of the
 following:
-    1. WES is more practical than the separate single gene tests or panels that would be
+    * WES is more practical than the separate single gene tests or panels that would be
 recommended based on the differential diagnosis
-    2. WES results may preclude the need for multiple and/or invasive procedures, follow-up, or
+    * WES results may preclude the need for multiple and/or invasive procedures, follow-up, or
 screening that would be recommended in the absence of testing
 
