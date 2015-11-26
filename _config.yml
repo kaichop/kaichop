@@ -1,5 +1,5 @@
-title:            KaiChop
-description:      "Kai Wang's Blogging Page"
+title:            kaichop
+description:      "Genomics and Bioinformatics Blog"
 logo:             logo.png
 disqus_shortname: kaichop
 share:            true
@@ -12,17 +12,17 @@ url:        	 http://kaichop.openbioinformatics.org
 # Owner/author information
 owner:
   name:           Kai Wang
-  avatar:         hmfaysal.jpg
+  avatar:         kaichop.jpg
   email:          kai@openbioinformatics.org
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Dude, Awesome Life
+  description:    Passion for genomics
   # Social networking links used in footer. Update and remove as you like.
   twitter:        kaichop
   facebook:       kaichop
   github:         kaichop      
   instagram:      kaichop
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
+  google_plus:    https://plus.google.com/118222572650126324391
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-39365944-7
@@ -45,7 +45,7 @@ links:
     url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Dhaka
+timezone:    America/Los_Angeles
 future:      true
 highlighter: pygments
 markdown:    kramdown
