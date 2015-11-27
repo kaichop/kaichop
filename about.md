@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/index.html
-title: Kai Wang
+title: About Me
 tags: [genomics, bioinformatics]
 imagefeature: kaichop.jpg
 chart: true
