@@ -4,7 +4,7 @@ title: "ACMG 2015 guidelines on variant interpretation"
 description: "A brief description on standards and guidelines for interpretation of sequence variants published by ACMG."
 modified: 2015-11-26
 date: 2015-03-05
-category: articles
+category: clinical
 tags: [genome, exome, ACMG, variant]
 imagefeature: cover12.jpg
 mathjax: 
