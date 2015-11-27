@@ -4,10 +4,7 @@ title: "Testing Readability with a Bunch of Text"
 description: "A ton of text to test readability."
 category: articles
 tags: [sample post, readability, test, intro]
-image:
-  feature: cover1.jpg
-  credit: Michael Rose
-  creditlink: http://mademistakes.com
+imagefeature: cover1.jpg
 comments: true
 share: true
 ---
