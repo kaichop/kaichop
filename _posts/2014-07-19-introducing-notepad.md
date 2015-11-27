@@ -4,7 +4,7 @@ title: "Introducing Notepad Theme"
 description: "basic introduction to the Notepad theme in Jekyll"
 headline: 
 modified: 2014-07-19
-category: personal
+category: webdevelopment
 tags: []
 imagefeature: cover1.jpg
 comments: true
