@@ -30,10 +30,10 @@ tested
 3. a genetic etiology is the most likely explanation for the phenotype as demonstrated by EITHER of the following:
     * multiple abnormalities affecting unrelated organ systems
     * TWO of the following criteria are met:
-        1. abnormality affecting a single organ system
-        2. significant intellectual disability, symptoms of a complex neurodevelopmental disorder (e.g. self-injurious behavior, reverse sleep-wake cycles), or severe neuropsychiatric condition (e.g. schizophrenia, bipolar disorder, Tourette syndrome)
-        3. family history strongly implicating a genetic etiology
-        4. period of unexplained developmental regression (unrelated to autism or epilepsy)
+        - abnormality affecting a single organ system
+        - significant intellectual disability, symptoms of a complex neurodevelopmental disorder (e.g. self-injurious behavior, reverse sleep-wake cycles), or severe neuropsychiatric condition (e.g. schizophrenia, bipolar disorder, Tourette syndrome)
+        - family history strongly implicating a genetic etiology
+        - period of unexplained developmental regression (unrelated to autism or epilepsy)
 4. no other causative circumstances (e.g. environmental exposures, injury, infection) can explain
 symptoms
 5. clinical presentation does not fit a well-described syndrome for which single-gene or targeted panel
