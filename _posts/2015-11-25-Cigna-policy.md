@@ -2,10 +2,15 @@
 layout: post
 title: "Cigna published insurance policy on exome sequencing"
 description: "A brief introduction to Cigna's coverage policy on clinical exome sequencing."
+headline: 
+modified: 2015-11-25
 category: articles
 tags: [genome, exome, insurance, policy]
 imagefeature: cover11.jpg
+mathjax: 
+chart: 
 comments: true
+featured: true
 share: true
 ---
 
