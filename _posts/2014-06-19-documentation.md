@@ -2,7 +2,7 @@
 layout: post
 title: "How to customize the theme"
 description: "Instructions on how to install and customize the Notepad Theme."
-category: theme
+category: webdevelopment
 tags: [how-to]
 imagefeature: cover10.jpg
 ---
