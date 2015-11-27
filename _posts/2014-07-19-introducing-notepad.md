@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Introducing Notepad"
-description: 
+title: "Introducing Notepad Theme"
+description: "basic introduction to the Notepad theme in Jekyll"
 headline: 
 modified: 2014-07-19
 category: personal
@@ -15,7 +15,7 @@ Notepad is a Jekyll theme which is very simple, clean and beautiful. This theme 
 
 Main Features:
 Zurb Foundation 5 - css framework
-Fullscreen post covers with header wich will be bright or dark according to background image
+Fullscreen post covers with header which will be bright or dark according to background image
 Fast and light
 Font Awesome
 Disqus comments integration
