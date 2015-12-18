@@ -45,6 +45,8 @@ I am an Assistant Professor at the [ZNI](http://www.keck.usc.edu/zni) at **USC**
 I was born and brought up in Honghu, China. It is beautiful city.
 
 <figure class="third">
+	<a href="{{ site.url }}/images/about/honghu7.jpg"><img src="{{ site.url }}/images/about/honghu7.jpg"></a>
+	<a href="{{ site.url }}/images/about/honghu8.jpg"><img src="{{ site.url }}/images/about/honghu8.jpg"></a>
 	<a href="{{ site.url }}/images/about/honghu9.jpg"><img src="{{ site.url }}/images/about/honghu9.jpg"></a>
 	<a href="{{ site.url }}/images/about/honghu10.jpg"><img src="{{ site.url }}/images/about/honghu10.jpg"></a>
 	<a href="{{ site.url }}/images/about/honghu11.jpg"><img src="{{ site.url }}/images/about/honghu11.jpg"></a>
