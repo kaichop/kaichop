@@ -45,19 +45,15 @@ I am an Assistant Professor at the [ZNI](http://www.keck.usc.edu/zni) at **USC**
 I was born and brought up in Honghu, China. It is beautiful city.
 
 <figure class="third">
-	<a href="{{ site.url }}/images/about/1.jpg"><img src="{{ site.url }}/images/about/1-001.jpg"></a>
-	<a href="{{ site.url }}/images/about/2.jpg"><img src="{{ site.url }}/images/about/2-001.jpg"></a>
-	<a href="{{ site.url }}/images/about/3.jpg"><img src="{{ site.url }}/images/about/3-001.jpg"></a>
+	<a href="{{ site.url }}/images/about/honghu9.jpg"><img src="{{ site.url }}/images/about/honghu9.jpg"></a>
+	<a href="{{ site.url }}/images/about/honghu10.jpg"><img src="{{ site.url }}/images/about/honghu10.jpg"></a>
+	<a href="{{ site.url }}/images/about/honghu11.jpg"><img src="{{ site.url }}/images/about/honghu11.jpg"></a>
+	<a href="{{ site.url }}/images/about/honghu12.jpg"><img src="{{ site.url }}/images/about/honghu12.jpg"></a>
 </figure>
 <figure class="half">
-	<a href="{{ site.url }}/images/about/4.jpg"><img src="{{ site.url }}/images/about/4-001.jpg"></a>
-	<a href="{{ site.url }}/images/about/5.jpg"><img src="{{ site.url }}/images/about/5-001.jpg"></a>
-</figure>
-<figure class="third">
-	<a href="{{ site.url }}/images/about/6.jpg"><img src="{{ site.url }}/images/about/6-001.jpg"></a>
-	<a href="{{ site.url }}/images/about/7.jpg"><img src="{{ site.url }}/images/about/7-001.jpg"></a>
-	<a href="{{ site.url }}/images/about/8.jpg"><img src="{{ site.url }}/images/about/8-001.jpg"></a>
-	<figcaption>Doha at its full glory.</figcaption>
+	<a href="{{ site.url }}/images/about/honghu2.jpg"><img src="{{ site.url }}/images/about/honghu2small.jpg"></a>
+	<a href="{{ site.url }}/images/about/honghu4.jpg"><img src="{{ site.url }}/images/about/honghu4small.jpg"></a>
+	<figcaption>Scene on Lotus Garden and Yellow River (photo taken by me in Honghu).</figcaption>
 </figure>
 
 If you are interested in genomics, I hope you will enjoy reading my blog.
