@@ -51,6 +51,7 @@ I was born and brought up in Honghu, China. It is beautiful city.
 	<a href="{{ site.url }}/images/about/honghu10.jpg"><img src="{{ site.url }}/images/about/honghu10.jpg"></a>
 	<a href="{{ site.url }}/images/about/honghu11.jpg"><img src="{{ site.url }}/images/about/honghu11.jpg"></a>
 	<a href="{{ site.url }}/images/about/honghu12.jpg"><img src="{{ site.url }}/images/about/honghu12.jpg"></a>
+	<figcaption>Scene on Honghu culture and color (photo borrowed from Internet).</figcaption>
 </figure>
 <figure class="half">
 	<a href="{{ site.url }}/images/about/honghu2.jpg"><img src="{{ site.url }}/images/about/honghu2small.jpg"></a>
