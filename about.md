@@ -59,3 +59,5 @@ I was born and brought up in Honghu, China. It is beautiful city.
 </figure>
 
 If you are interested in genomics, I hope you will enjoy reading my blog.
+
+The blog used the [Notepad](https://github.com/hmfaysal/Notepad) theme and is built by [Jekyll](https://github.com/jekyll/jekyll).
