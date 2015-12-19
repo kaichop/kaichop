@@ -6,10 +6,6 @@ tags: [genomics, bioinformatics]
 imagefeature: kaichop.jpg
 chart: true
 ---
-<figure>
-  <img src="{{ site.url }}/images/kaichop.jpg" alt="Kai Wang">
-  <figcaption>Kai Wang</figcaption>
-</figure>
 
 {% assign total_words = 0 %}
 {% assign total_readtime = 0 %}
