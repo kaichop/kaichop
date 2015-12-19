@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Family information in exome sequencing"
+title: "Trio information in exome sequencing"
 description: "A study demonstrated improved diagnostic rates in exome sequencing when family trio is sequenced."
 modified: 2015-12-18
 category: clinical
