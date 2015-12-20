@@ -47,12 +47,12 @@ I was born and brought up in Honghu, China. It is beautiful city.
 	<a href="{{ site.url }}/images/about/honghu10.jpg"><img src="{{ site.url }}/images/about/honghu10.jpg"></a>
 	<a href="{{ site.url }}/images/about/honghu11.jpg"><img src="{{ site.url }}/images/about/honghu11.jpg"></a>
 	<a href="{{ site.url }}/images/about/honghu12.jpg"><img src="{{ site.url }}/images/about/honghu12.jpg"></a>
-	<figcaption>Scene on Honghu culture and color (photo borrowed from Internet).</figcaption>
+	<figcaption>Scene on Honghu culture and scene (photo borrowed from Internet).</figcaption>
 </figure>
 <figure class="half">
 	<a href="{{ site.url }}/images/about/honghu2.jpg"><img src="{{ site.url }}/images/about/honghu2small.jpg"></a>
 	<a href="{{ site.url }}/images/about/honghu4.jpg"><img src="{{ site.url }}/images/about/honghu4small.jpg"></a>
-	<figcaption>Scene on Lotus Garden and Yellow River (photo taken by me in Honghu).</figcaption>
+	<figcaption>Scene on Lotus Garden and Yangtz River (photo taken by me in Honghu).</figcaption>
 </figure>
 
 If you are interested in genomics, I hope you will enjoy reading my blog.
